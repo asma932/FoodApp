@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c975e69-b2dd-4e16-954a-30f1133919c2" name="Default Changelist" comment="" />
+    <list default="true" id="0c975e69-b2dd-4e16-954a-30f1133919c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/www/GrilledSalad.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/SaladCalamar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/SaladCesar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/couscous.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/entrees.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/foods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/lasagne.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/mainCourse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/spaghetti.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Cakes&amp;sweets.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Cakes&amp;sweets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Cakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Cakes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/Lemon_cake.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/Lemon_cake.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1m0cSkYcbjgTnOyI40oroTbOFFh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
